@@ -1,4 +1,4 @@
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/gomah/bluise)
+[![Instagram](https://images.app.goo.gl/oe5RmYCFhH2ucEe28)](https://instagram.com/recordsartsy.in?igshid=ZDdkNTZiNTM==https://github.com/gomah/bluise)
 
 # Bluise - A Nuxt.js & Netlify CMS boilerplate.
 
